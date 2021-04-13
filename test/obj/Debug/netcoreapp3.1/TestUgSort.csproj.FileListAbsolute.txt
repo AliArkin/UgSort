@@ -1,0 +1,14 @@
+D:\Projects\DesktopApps\UgSort\TestUgSort\bin\Debug\netcoreapp3.1\TestUgSort.exe
+D:\Projects\DesktopApps\UgSort\TestUgSort\bin\Debug\netcoreapp3.1\TestUgSort.deps.json
+D:\Projects\DesktopApps\UgSort\TestUgSort\bin\Debug\netcoreapp3.1\TestUgSort.runtimeconfig.json
+D:\Projects\DesktopApps\UgSort\TestUgSort\bin\Debug\netcoreapp3.1\TestUgSort.runtimeconfig.dev.json
+D:\Projects\DesktopApps\UgSort\TestUgSort\bin\Debug\netcoreapp3.1\TestUgSort.dll
+D:\Projects\DesktopApps\UgSort\TestUgSort\bin\Debug\netcoreapp3.1\TestUgSort.pdb
+D:\Projects\DesktopApps\UgSort\TestUgSort\bin\Debug\netcoreapp3.1\UgSort.dll
+D:\Projects\DesktopApps\UgSort\TestUgSort\bin\Debug\netcoreapp3.1\UgSort.pdb
+D:\Projects\DesktopApps\UgSort\TestUgSort\obj\Debug\netcoreapp3.1\TestUgSort.csprojAssemblyReference.cache
+D:\Projects\DesktopApps\UgSort\TestUgSort\obj\Debug\netcoreapp3.1\TestUgSort.AssemblyInfoInputs.cache
+D:\Projects\DesktopApps\UgSort\TestUgSort\obj\Debug\netcoreapp3.1\TestUgSort.AssemblyInfo.cs
+D:\Projects\DesktopApps\UgSort\TestUgSort\obj\Debug\netcoreapp3.1\TestUgSort.csproj.CopyComplete
+D:\Projects\DesktopApps\UgSort\TestUgSort\obj\Debug\netcoreapp3.1\TestUgSort.dll
+D:\Projects\DesktopApps\UgSort\TestUgSort\obj\Debug\netcoreapp3.1\TestUgSort.pdb
