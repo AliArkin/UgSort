@@ -18,7 +18,7 @@ Sorting Algorithm for Uyghur Script
      lst.AddRange(words);
      lst.Sort(ugsort);
 
-### DirectSort
+### Direct Sort
      EliErkin.UgSort ugsort = new EliErkin.UgSort();
     string[] words = new string[] {"ئالما", "ئانار", "ئۆرۈك", "توغاچ", "شاپتۇل", "قاق", "نەشپۈت", "قوغۇن", "تاۋۇز", "گۈلە", "گىلاس", "بانان", "ئاناناس", "ماڭگو", "لەيلى", "سەبدە", "ئەتىرگۈل", "مامكاپ", "بۇغداي", "قوناق", "گۈرۈچ", "شال", "بەسەي", "چامغۇر", "شوخلا", "سۈرەت", "قارىغاي", "سۈگەت", "جىگدە", "توغراق", "يانتاق", "سۈرئەت", "تەلەت", "بۇغا", "مارال", "كېيىك", "تەلئەت" };
     string[] sortedWords=ugsort.Sort(words);
